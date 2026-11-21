@@ -199,3 +199,5 @@ Kerjakan bagian-bagian yang ditandai komentar `TODO` secara berurutan pada 8 fil
   - Tambahkan minimal 2 mata kuliah lagi dengan semester dan SKS berbeda, 1 akun mahasiswa tambahan, minimal 2 tugas perkuliahan (`Assignment`), serta contoh pengumpulan tugas (`Submission`) untuk menguji fitur filter, sorting, penilaian, dan export CSV.
   - Jalankan `php artisan migrate:fresh --seed` untuk memuat seluruh data seeder baru.
 
+#   P A W - J U R N A L 4 - R A H M A - 1 0 2 0 4 2 5 0 0 1 9 4  
+ 
